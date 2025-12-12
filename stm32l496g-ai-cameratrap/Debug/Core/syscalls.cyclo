@@ -1,0 +1,11 @@
+../Core/syscalls.c:21:5:_close	1
+../Core/syscalls.c:26:5:_fstat	1
+../Core/syscalls.c:32:5:_isatty	1
+../Core/syscalls.c:37:5:_lseek	1
+../Core/syscalls.c:44:5:_read	1
+../Core/syscalls.c:51:5:_write	1
+../Core/syscalls.c:62:5:_open	1
+../Core/syscalls.c:70:5:_kill	1
+../Core/syscalls.c:77:5:_getpid	1
+../Core/syscalls.c:82:6:_exit	1
+../Core/syscalls.c:89:5:_raise	1
